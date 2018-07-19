@@ -1,19 +1,11 @@
 {
-  "name": "demo",
-  "version": "1.0.0",
-  "description": "个性化模板",
+  "name": "{{name}}",
+  "version": "{{version}}",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/huangxinxia/model-less.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/huangxinxia/model-less/issues"
-  },
-  "homepage": "https://github.com/huangxinxia/model-less#readme"
+  "author": "{{author}}",
+  "license": "ISC"
 }
